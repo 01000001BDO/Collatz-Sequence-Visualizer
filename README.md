@@ -1,6 +1,5 @@
 # 🌀 Collatz Sequence Visualizer
-
-> 🎨 Beautiful visualizations of the Collatz Conjecture in both 3D and web!
+- 🎨 Beautiful visualizations of the Collatz Conjecture in both 3D and web!
 
 ## 🚀 Quick Start
 
