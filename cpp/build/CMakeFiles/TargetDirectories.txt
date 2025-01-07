@@ -1,3 +1,0 @@
-/home/kernel/DevStuff/animation/v1/cpp/build/CMakeFiles/SyracuseSequence.dir
-/home/kernel/DevStuff/animation/v1/cpp/build/CMakeFiles/edit_cache.dir
-/home/kernel/DevStuff/animation/v1/cpp/build/CMakeFiles/rebuild_cache.dir
